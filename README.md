@@ -1,5 +1,5 @@
-# University of Helsinki
-# Full Stack Open 2021
+# Full Stack Open 2021 University of Helsinki
+
 
 ## Table of Contents
 * [Part 0](#Part 0)
